@@ -1,0 +1,101 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+    line-height: 1.6;
+    
+}
+
+header.menu {
+    display: flex;
+
+}
+
+header div .baslik {
+    color: #B82854;
+    text-align: center;
+    padding: 20px;
+}
+
+header .baslik-2 {
+    color: #6B26FB;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.baslik-4 {
+    color: #b7b24d;
+    padding: 10px;
+}
+
+header nav {
+    
+    text-align: center;
+
+}
+
+header a {
+    padding: 3px;
+    text-decoration: none;
+}
+
+
+.arama button {
+    background-color: rgb(75, 15, 70);
+    color: white;
+    border-radius: 0.4rem;
+    border: 1px solid gray;
+    box-shadow: 1px 2px 2px 0px rgb(0 0 0 / 31%);
+}
+
+.arama form input,
+.arama form button {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+}
+
+.arama {
+
+    text-align: center;
+    padding: 10px;
+}
+
+.bolge {
+    text-align: center;
+
+
+}
+
+.list {
+    text-align: center;
+   
+    
+}
+.bolge-2 .photo {
+    text-align: center;
+
+}
+span {
+    font-weight: bold;
+    
+}
+p {
+    
+    margin:10px;
+}
+
+.photo img {
+   width: 350px;
+   background:transparent;
+    padding:20px;
+    border:2px solid #999999;
+ 
+}
+
+.bolge-1 h4 {
+padding-left: 10px;
+color: #AB8A31;
+}
